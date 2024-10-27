@@ -1,0 +1,16 @@
+.name {
+  color: aqua;
+  padding-left: 5vw;
+  text-decoration-style: solid;
+  font-size: 2.5vw;
+}
+.pp {
+     height: 10vw;
+     display:flexbox;
+     text-align: center;
+     align-content: center;
+     align-items: center;
+     background-color: #D3D3D3;
+     font-size: 5vw;
+     
+}
